@@ -4,6 +4,6 @@
 <title> Login </title>
 </head>
 <body>
-  <p>Selamat datang di siniiiii hehehehe</p>
+  <h2>Login Aplikasi Smart City</h2>
 </body>
 </html>
