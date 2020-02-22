@@ -4,6 +4,11 @@
 <title> Login </title>
 </head>
 <body>
-  <p>Selamat datang di siniiiii hehehehe</p>
+  <div class="container">
+    <div class="row">
+    </div>
+  </div>
 </body>
+  <footer>
+  </footer>
 </html>
