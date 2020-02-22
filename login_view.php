@@ -4,6 +4,15 @@
 <title> Login </title>
 </head>
 <body>
+
   <h2>Login Aplikasi Smart City</h2>
+
+  <div class="container">
+    <div class="row">
+    </div>
+  </div>
+
 </body>
+  <footer>
+  </footer>
 </html>
